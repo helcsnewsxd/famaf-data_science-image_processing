@@ -35,6 +35,6 @@ Este repositorio contiene el material de la materia Procesamiento de Imágenes d
 <!-- prettier-ignore -->
 | Trabajo Práctico | Desarrollo |
 | ---------------- | ---------- |
-| [Procesamiento Digital de Imágenes](./exam/Filminas%20practicos.pdf) | *En proceso* |
+| [Procesamiento Digital de Imágenes](./exam/Filminas%20practicos.pdf) | [Ejercicios obligatorios](./exam/PDI%20-%20TP.ipynb) |
 
 </div>
